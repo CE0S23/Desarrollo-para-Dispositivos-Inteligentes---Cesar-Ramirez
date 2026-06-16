@@ -4,7 +4,7 @@ Repositorio de prácticas y proyectos desarrollados durante la materia **Desarro
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - [Flutter](https://flutter.dev/) — Framework principal para el desarrollo de la aplicación móvil
 - Dart — Lenguaje de programación
@@ -12,7 +12,7 @@ Repositorio de prácticas y proyectos desarrollados durante la materia **Desarro
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 ```
 /
@@ -22,7 +22,7 @@ Repositorio de prácticas y proyectos desarrollados durante la materia **Desarro
 
 ---
 
-## 📝 Nota sobre el historial del repositorio
+## Nota sobre el historial del repositorio
 
 Este repositorio fue creado inicialmente para almacenar únicamente los **reportes y evidencias** de cada práctica de la materia. El código fuente de la aplicación Flutter fue integrado en una etapa posterior del curso, una vez que el desarrollo de la app comenzó formalmente.
 
@@ -30,7 +30,7 @@ Por esta razón, el archivo `.gitignore` (configurado para Flutter) no aparece e
 
 ---
 
-## ⚙️ Requisitos previos
+## Requisitos previos
 
 Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 
@@ -47,7 +47,7 @@ flutter doctor
 
 ---
 
-## 🚀 Instalación y ejecución
+##  Instalación y ejecución
 
 1. Clona el repositorio:
 
@@ -78,7 +78,7 @@ flutter run
 
 ---
 
-## 📦 Compilar APK (opcional)
+## Compilar APK (opcional)
 
 Para generar un APK de release:
 
@@ -90,7 +90,7 @@ El archivo generado se encontrará en `build/app/outputs/flutter-apk/app-release
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **César Ramírez**  
 Ingeniería en Gestión de Desarrollo de Software  
