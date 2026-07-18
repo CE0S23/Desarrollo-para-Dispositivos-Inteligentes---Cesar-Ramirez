@@ -1,0 +1,7 @@
+.env
+node_modules/
+js/config.local.js
+*.jks
+*.keystore
+.DS_Store
+Thumbs.db
